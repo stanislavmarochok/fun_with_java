@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Lesson5_ArrayList {
 
-	public static void main(String[] args) {
+	public static void Lesson5(String[] args) {
 		String[] antiHeroes = {"Joker", "Grinch", "Plankton", "Mistique"};
 		List<String> list1 = new ArrayList<String>();
 		
