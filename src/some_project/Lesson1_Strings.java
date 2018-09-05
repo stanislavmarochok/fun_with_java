@@ -12,7 +12,13 @@ public class Lesson1_Strings {
 		for (String s: food)
 		{
 			if (s.startsWith("па"))
-				System.out.println(s + "начинается с па");
+				System.out.println(s + " начинается с па");
+		}
+		
+		for (String s: food)
+		{
+			if (s.endsWith("ан"))
+				System.out.println(s + " заканчивается на ан");
 		}
 	}
 
