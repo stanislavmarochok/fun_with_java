@@ -8,6 +8,12 @@ public class Lesson1_Strings {
 		{
 			System.out.println(s);
 		}
+		
+		for (String s: food)
+		{
+			if (s.startsWith("па"))
+				System.out.println(s + "начинается с па");
+		}
 	}
 
 }
