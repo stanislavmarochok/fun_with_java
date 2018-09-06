@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Lesson10_11_CollectionAndMethod {
 
-	public static void main(String[] args) {
+	public static void Lesson10_11(String[] args) {
 		Character[] c = {'n','e','r','d'};
 		List<Character> list = new ArrayList(Arrays.asList(c));
 		
