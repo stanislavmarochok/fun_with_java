@@ -1,7 +1,7 @@
 package some_project;
 import java.util.*;
 
-public class Lesson12_addAll {
+public class Lesson12_13_addAll {
 
 	public static void Lesson12_13(String[] args) {
 		String[] planetArray = {"Земля", "Марс", "Венера", "Сатурн"};
